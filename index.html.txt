@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>LeftOvers</title>
+</head>
+
+<body>
+
+  <h1>Comming Soon, LeftOvers</h1> 
+  <h2>Creators:</h2>
+
+  <p>Jodi Garrness (Team Lead)</p>
+  <p>Jennifer Morrisey</p>
+  <p>Chala Smart</p>
+  <p>Shanelle Smart</p>
+  <p>Brian Wilson</p>
+
+</body>
+
+</html> 
